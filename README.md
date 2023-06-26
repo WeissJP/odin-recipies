@@ -1,0 +1,1 @@
+This project is part of the HTML section in The Odin Project Introductory course. I will have used skills from both previous courses and projects, and The Odin Project, to create this website.
