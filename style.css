@@ -1,0 +1,29 @@
+body {
+    background-color: khaki;
+}
+
+h1 {
+    text-align: center;
+}
+
+.slogan {
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
+
+.link-container {
+    font-size: large;
+}
+
+.links {
+    border-width: 1px;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.links a:hover {
+    color: red;
+}
