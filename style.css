@@ -1,5 +1,5 @@
 body {
-    background-color: khaki;
+    background-color: lightblue;
 }
 
 h1 {
@@ -12,18 +12,33 @@ h1 {
     text-align: center;
 }
 
+.tom-gif {
+    display: block;
+    margin: 5px auto;
+}
+
 .link-container {
+    display: block;
     font-size: large;
+    width: fit-content;
+    margin: 0px auto;
+    padding-inline-start: 0px;
 }
 
 .links {
-    border-width: 1px;
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
 }
 
 .links a {
     text-decoration: none;
+    color: black;
+    padding: 5px;
+    border: 2px black solid;
 }
 
 .links a:hover {
     color: red;
+    background-color: khaki;
 }
